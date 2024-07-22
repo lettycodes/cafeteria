@@ -26,7 +26,7 @@ function Produtos() {
   }
 
   function deletarProduto(id) {
-    const deletar = window.confirm("Tem certeza?");
+    const deletar = window.confirm("Tem certeza que deseja remover o produto?");
     if (deletar) {
       deleteProduto(id).then(() => {
         toast.success("Produto removido com sucesso");
