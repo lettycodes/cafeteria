@@ -14,4 +14,4 @@ Criar um CRUD fazendo uso do React + Firebase. O tema escolhido foi uma cafeteri
 Atualização de dados com formulário com validação dos campos
 Autenticação do usuário com páginas de cadastro e login
 
-[Link do deploy da aplicação](https://cafeteria-1d74d.web.app/)
+### [Link do deploy da aplicação](https://cafeteria-1d74d.web.app/)
